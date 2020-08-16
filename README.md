@@ -2,7 +2,7 @@
 
 Serve your PHP files in local and see the documentation.
 
-Currently support markdown.
+Currently (only) support markdown.
 
 ## Installation
 
