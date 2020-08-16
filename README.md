@@ -16,8 +16,8 @@ sample/
     ∟ document.md
     ∟ index.md
   ∟ config.json
-∟ apidoc.phar
 ∟ your-directory-contains-php-files/
+∟ apidoc.phar
 ```
 
 ### Install Chrome Extension
