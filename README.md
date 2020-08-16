@@ -4,6 +4,8 @@ Serve your PHP files in local and see the documentation.
 
 Currently (only) support markdown.
 
+Works fine in Linux (Mint20) & Windows (Win10).
+
 ## Installation
 
 Download or clone this project and place them outside or separate from your main project directory for the first time.
@@ -74,3 +76,5 @@ You can modify them with your own style. Support Twig-PHP syntax.
 ## Generated Documents
 
 See directory ``./apidoc/build/api/``
+
+
