@@ -4,22 +4,20 @@ Serve your PHP files in local and see the documentation.
 
 Currently (only) support markdown.
 
-Works fine in Linux (Mint20) & Windows (Win10).
-
 ## Installation
 
 Download or clone this project and place them outside or separate from your main project directory for the first time.
 
 ```
 sample/
-∟ apidoc/
-  ∟ build/
-  ∟ markdown/
-    ∟ document.md
-    ∟ index.md
-  ∟ config.json
-∟ your-directory-contains-php-files/
-∟ apidoc.phar
+┖─ apidoc/
+   ┖─ build/
+   ┖─ markdown/
+      ┖─ document.md
+      ┖─ index.md
+   ┖─ config.json
+┖─ your-directory-contains-php-files/
+┖─ apidoc.phar
 ```
 
 ### Install Chrome Extension

@@ -1,0 +1,18 @@
+{
+	"directory": "vendor",
+	"exclude": [
+		"Test",
+		"doc",
+		"test",
+		"test_old",
+		"tests",
+		"Tests",
+		"vendor-bin"
+	],
+	"hideModifiers": {
+		"constant": ["private_", "protected_"],
+		"property": ["private_", "protected_"],
+		"method": ["private_", "protected_"]
+	},
+	"hideElements": ["source_", "params_", "toc_"]
+}
