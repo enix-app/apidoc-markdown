@@ -53,21 +53,21 @@ Example:
 Serve files in local server:
 
 ```
-$ php apidoc.phar doc:serve
+$ php apidoc.phar serve
 ```
 
 Generate documentation (markdown files):
 
 ```
-$ php apidoc.phar doc:build
+$ php apidoc.phar build
 ```
 
 ## Templating (Markdown)
 
 Require files:
 
-1. index.ext
-2. document.ext
+1. index.md
+2. document.md
 
 You can modify them with your own style. Support Twig-PHP syntax.
 
